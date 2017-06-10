@@ -4,7 +4,9 @@
 //
 //  Created by Nenad on 4/14/17.
 //  Copyright © 2017 Nenad.Dj. All rights reserved.
-//
+//  This is the view controller implementation file
+
+
 
 #import "ViewController.h"
 
